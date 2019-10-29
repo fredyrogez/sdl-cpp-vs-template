@@ -1,5 +1,5 @@
 # SDL2 Template - Visual Studio 2019
-Solution complète pour démarrer rapidement un projet Visual C++/SDL2 32/64 bits
+Solution Visual Studio 2019 pour démarrer rapidement un projet C++/SDL2 : linkage, sous-systèmes, includes, libs, dll, configs debug/release, x86/x64, gitignore...
 
 Mise à jour des libs vers les versions les plus récentes le 29 octobre 2019.
 
