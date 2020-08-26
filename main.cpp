@@ -35,7 +35,6 @@ int main(int argc, char* args[])
     SDL_Event event;
 
     SDL_Init(SDL_INIT_VIDEO | SDL_RENDERER_PRESENTVSYNC);
-    TTF_Init();
     
     SDL_Window* window = SDL_CreateWindow(game_name.c_str(), SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, window_width, window_height, window_flags);
     if (!window)
@@ -62,13 +61,14 @@ int main(int argc, char* args[])
         {
             switch (event.type)
             {
-            case SDL_QUIT: // Clic sur la croix
+            case SDL_QUIT: // Fermeture de la fenêtre
                 game_running = false;
                 break;
             }
         }
 
         // Update
+        // ...
 
 
         // Draw
