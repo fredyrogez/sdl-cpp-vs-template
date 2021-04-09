@@ -2,9 +2,9 @@
 
 Visual Studio 2019 solution to quick start a C++/SDL2 project : linking, sub-systems, includes, libs, dll, configs debug/release, x86/x64, gitignore...
 
-1 - Clone this repository
-2 - Open in Visual Studio 2019
-3 - Build!
+1. Clone this repository
+2. Open in Visual Studio 2019
+3. Build!
 
 Latests libs updates :
 
