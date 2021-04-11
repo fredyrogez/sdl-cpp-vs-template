@@ -1,6 +1,6 @@
 # SDL CPP VS Template (last update : April 9 2021)
 
-Visual Studio 2019 solution to quick start a C++/SDL2 project : linking, sub-systems, includes, libs, dll, configs debug/release, x86/x64, gitignore...
+Visual Studio 2019 solution to quickstart a C++/SDL2 project : linking, sub-systems, includes, libs, dll, configs debug/release, x86/x64, gitignore...
 
 1. Clone this repository
 2. Open in Visual Studio 2019
